@@ -37,4 +37,12 @@ This is the repo for C++ and Python solutions of the assignments for the Courser
 
 ## Week 4: Divide and Conquer
 - [x] Binary Search
+- [x] Majority Element
+- [x] Improving Quicksort
+- [x] Number of Inversions
+- [] Organizing a lottery
+- [] Closest Points
 
+
+## Week 5: Dynamic Programming Part 1
+- [x] Money Change
